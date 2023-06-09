@@ -5,6 +5,8 @@ This reference code is for Assignment 4 of SNU Advanced Graphics. It is based on
 
 ## Installation 
 
+We checked this code works on Ubuntu 22.04.
+
 ```bash
 cd {Project}
 
