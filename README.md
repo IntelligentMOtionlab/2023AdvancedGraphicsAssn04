@@ -1,6 +1,6 @@
 # Assignment 04 of Advanced Graphics (Simulation Methodology)
 
-This reference code is for Assignment 4 of SNU Advanced Graphics. It is based on the Half Cheetah (V4) environment provided by OpenAI Gymnasium and uses the Proximal Policy Optimization algorithm, which is a popular DeepRL algorithm. The DeepRL code is from (https://stable-baselines3.readthedocs.io/en/master/) and the enviromnet is based on the Half_cheetah_v4 from https://github.com/Farama-Foundation/Gymnasium.
+This is reference code for Assignment 4 of SNU Advanced Graphics. It is based on the Half Cheetah (V4) environment provided by OpenAI Gymnasium and uses the Proximal Policy Optimization algorithm, which is a popular DeepRL algorithm. The DeepRL code is from (https://stable-baselines3.readthedocs.io/en/master/) and the enviromnet is based on the Half_cheetah_v4 from https://github.com/Farama-Foundation/Gymnasium.
 
 
 ## Installation 
