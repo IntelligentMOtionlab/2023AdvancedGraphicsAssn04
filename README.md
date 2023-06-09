@@ -20,12 +20,12 @@ source ./venv/bin/activate
 
 ## Learning and rendering
 
-Without obstacles
+Without obstacles,
 ```bash
 (venv) python main.py --model_path {model_path}
 ```
 
-With obstacles
+With obstacles,
 ```bash
 (venv) python main.py --obstacle --model_path {model_path}
 ```
